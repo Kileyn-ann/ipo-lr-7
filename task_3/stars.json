@@ -1,1 +1,30 @@
-
+[
+    {
+        "id": 1,
+        "name": "Сириус",
+        "constellation": "Малый Пес",
+        "is_visible": true,
+        "radius": 1.71
+    },
+    {
+        "id": 2,
+        "name": "Бетельгейзе",
+        "constellation": "Орёл",
+        "is_visible": true,
+        "radius": 887
+    },
+    {
+        "id": 3,
+        "name": "Полярная звезда",
+        "constellation": "Малая Медведица",
+        "is_visible": true,
+        "radius": 35
+    },
+    {
+        "id": 4,
+        "name": "Альтаир",
+        "constellation": "Пегас",
+        "is_visible": true,
+        "radius": 2.37
+    }
+]
